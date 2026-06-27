@@ -1,2 +1,3 @@
 # first-repo
-my demo repository for git hub
+My first Repo in GitHub <br> HI Khushal here
+
